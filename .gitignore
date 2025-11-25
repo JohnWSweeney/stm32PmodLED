@@ -1,0 +1,8 @@
+# CubeMX/IDE gitignore
+
+# folders
+Debug/
+
+# files
+.settings/language.settings.xml
+*.launch
